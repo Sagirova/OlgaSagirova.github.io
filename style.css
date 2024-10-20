@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+  background: #fafafa;
+  color: #166966;
+  text-align: left;
+<style>
+div {
+  height: 40px;
+  margin: 0 0 1px;
+  background: #fafafa;
+</style>
+
+<div></div>
+<div></div>
+<div></div>
